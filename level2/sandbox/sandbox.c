@@ -6,7 +6,7 @@
 /*   By: ahouass <ahouass@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/05 14:43:04 by ahouass           #+#    #+#             */
-/*   Updated: 2025/06/05 15:47:21 by ahouass          ###   ########.fr       */
+/*   Updated: 2025/07/01 18:17:01 by ahouass          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -80,6 +80,7 @@ int sandbox(void (*f)(void), unsigned int timeout, bool verbose)
 	return -1;
 }
 
+// From here on , the code below is just for testing your function , do not do push it in the exam
 
 void nice_function(void)
 {

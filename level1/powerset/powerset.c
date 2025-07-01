@@ -6,15 +6,13 @@
 /*   By: ahouass <ahouass@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/31 18:14:20 by ahouass           #+#    #+#             */
-/*   Updated: 2025/06/01 12:35:16 by ahouass          ###   ########.fr       */
+/*   Updated: 2025/07/01 18:04:17 by ahouass          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
-
-// Allowed functions: atoi, printf, fprintf, malloc, calloc, realloc, free, stdout, write
 
 void    print_set(int *power_set, int powerset_size)
 {
